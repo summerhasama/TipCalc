@@ -41,6 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I encountered many challenges while creating the tip calculator, especially when I decided to add optional features. Using the video walk through for the main features was not too difficult; however, implementing other ideas quickly became a hassle. Using user default for the default percentages was my first challenge as I was unsure how to connect the selection from the settings page to the main page. Another challenge I faced was trying to set up the custom option on the segment controller. I was having trouble changing the total and tip calculators with user input as the fourth option, while still keeping the calculator operations for the first 3 preset options. These were two of my main and most time consuming struggles. With some online research, many youtube videos, and some playing around with the code, I eventually figured out how to go about solving these issues. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
