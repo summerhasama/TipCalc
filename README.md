@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-  -settings with default tip percentage
-  -custom tip option that allows user to input a percentage in the textfield that can show/hide
-  -button for split tab that can show/hide info for splitting the tab 2, 3, or 4 ways
-  -custom split tab button with light up feature
-  -changed font size and font style, added icons and background color to improve visuals
+- [ ] settings with default tip percentage
+- [ ] custom tip option that allows user to input a percentage in the textfield that can show/hide
+- [ ] button for split tab that can show/hide info for splitting the tab 2, 3, or 4 ways
+- [ ] custom split tab button with light up feature
+- [ ] changed font size and font style, added icons and background color to improve visuals
 
 ## Video Walkthrough
 
