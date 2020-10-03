@@ -15,19 +15,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-- [ ] settings with default tip percentage
-- [ ] custom tip option that allows user to input a percentage in the textfield that can show/hide
-- [ ] button for split tab that can show/hide info for splitting the tab 2, 3, or 4 ways
-- [ ] custom split tab button with light up feature
-- [ ] changed font size and font style, added icons and background color to improve visuals
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] settings with default tip percentage
+- [x] custom tip option that allows user to input a percentage in the textfield that can show/hide
+- [x] button for split tab that can show/hide info for splitting the tab 2, 3, or 4 ways
+- [x] custom split tab button with light up feature
+- [x] changed font size and font style, added icons and background color to improve visuals
 
 ## Video Walkthrough
 
